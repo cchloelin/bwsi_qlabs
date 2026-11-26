@@ -35,3 +35,5 @@ For full credit, upload the following to Canvas:
 - The Q# file with your code implementing the operations.
 
 - A screenshot showing evidence of the unit tests passing.
+
+- To test the code, type the command "pytest tests/test_L0#.py" (where # is the number of the lab) in the terminal.
